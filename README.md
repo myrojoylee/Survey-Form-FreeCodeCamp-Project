@@ -1,4 +1,4 @@
-# Survey-Form-FrontEnd-Mentor-Project
+# Survey-Form-FCC-project
 
 ## Description
 
